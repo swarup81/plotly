@@ -2,7 +2,7 @@
 
 # purpose:
 
-The project aims to create an interactive dashboard where her volunteers can select their anonymized ID from a dropdown menu in the browser to display information about their belly button critters.
+The project aims to create an interactive dashboard where volunteers can select their anonymized ID from a dropdown menu in the browser to display information about their belly button critters.
 
 A dropdown menu will list the ID numbers of all the volunteers. When a volunteer ID is chosen from the dropdown menu, that person's demographic information, such as location, sex, and age, will be displayed.
 

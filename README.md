@@ -8,4 +8,4 @@ A dropdown menu will list the ID numbers of all the volunteers. When a volunteer
 
 We have created a dynamic bar, bubble, and gauge chart with the dropdown menu in the browser with different Ids. When an Id is selected, the browser will display the graph for the dataset associated with that option.
 
-<img width="581" alt="Screen Shot 2022-05-27 at 8 32 01 PM" src="https://user-images.githubusercontent.com/100738688/170804563-2b39f63e-b30f-44d1-8d3e-eb9a8dcb046d.png">
+<img width="595" alt="Screen Shot 2022-05-28 at 11 28 19 AM" src="https://user-images.githubusercontent.com/100738688/170832009-74a13848-9163-43f1-83ca-38aaf8502a44.png">
